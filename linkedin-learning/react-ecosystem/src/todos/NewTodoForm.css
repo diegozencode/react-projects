@@ -1,0 +1,13 @@
+.new-todo-form {
+  align-items: center;
+}
+
+.new-todo-button {
+  background: chartreuse;
+  color: black;
+  padding: 8px 16px;
+}
+
+.new-todo-input {
+  padding: 8px 16px;
+}
