@@ -1,0 +1,5 @@
+{
+    // transform the code to what browsers can run,
+    // although is not as necessary as it was before
+    "presets": [ "@babel/preset-env", "@babel/preset-react" ]
+}
