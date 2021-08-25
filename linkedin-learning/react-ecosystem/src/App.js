@@ -6,7 +6,7 @@ import './App.css';
 // function component
 const App = () => {
   return <div className="App">
-    <h1>Hello, World!!!</h1>
+    <h1>My Todo List</h1>
     <TodoList />
   </div>
 };

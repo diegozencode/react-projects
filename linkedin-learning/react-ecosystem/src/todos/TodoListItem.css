@@ -1,0 +1,11 @@
+.completed-button {
+  background: greenyellow;
+  padding: 8px 16px;
+  color: black;
+}
+
+.remove-button {
+  background: red;
+  color: black;
+  padding: 8px 16px;
+}
